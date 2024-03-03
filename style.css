@@ -28,6 +28,8 @@
     text-align: center;
     justify-content: center;
     color: white;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 .NavButton:hover{
     text-decoration: underline;
